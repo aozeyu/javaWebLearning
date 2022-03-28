@@ -1,3 +1,5 @@
+package com.example.demo4;
+
 import com.example.demo4.*;
 
 public class ObserverTest {
